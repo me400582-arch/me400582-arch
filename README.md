@@ -11,6 +11,6 @@
     🐾 Torito • BURRO 🐤🐥
 </pre>
 <br><br>
-<img src="https://github.com/me400582-arch/README.md/blob/main/yo.jfif" height="40" />
+<img src="https://github.com/me400582-arch/README.md/blob/main/yo.jfif">
 <br><br>
     
